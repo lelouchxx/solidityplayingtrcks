@@ -14,6 +14,9 @@ contract contractName{
     }
     
   // isowner() is a function that exists in openZepplin
-  
+  //a modifier is a restriction on the function that makes rules for the function to run
+  function whateverfunction(uint whatevernum, string memory whateverstring) public checkingownablitiyofaccount{
+    /whatever function the function is made for 
+    }
   }
     
